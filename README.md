@@ -8,5 +8,5 @@ Thankfully there is the option to login and change your details via 2 online web
 
 Take a look at:
 
--   [mailadmin_konsoleh method]()
--   [webmail_konsoleh method]()
+-   [mailadmin_konsoleh method](https://github.com/Cale-Torino/Change_Email_Password_Xneelo/blob/main/mailadmin_konsoleh.md)
+-   [webmail_konsoleh method](https://github.com/Cale-Torino/Change_Email_Password_Xneelo/blob/main/webmail_konsoleh.md)
