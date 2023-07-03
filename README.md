@@ -24,7 +24,7 @@ N.B The *admin* accounts can change your password in the **KonsoleH** backend, h
 
 Thankfully there is the option to login and change your details via **2** online web systems.
 
-Take a look at:
+Take a look at the two methods below:
 
 -   [mailadmin_konsoleh method](https://github.com/Cale-Torino/Change_Email_Password_Xneelo/blob/main/mailadmin_konsoleh.md)
 -   [webmail_konsoleh method](https://github.com/Cale-Torino/Change_Email_Password_Xneelo/blob/main/webmail_konsoleh.md)
